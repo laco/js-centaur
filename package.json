@@ -1,0 +1,19 @@
+{
+  "name": "centaurjs",
+  "version": "0.0.1",
+  "description": "Centaur is a Data Validation and Application Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laco/js-centaur.git"
+  },
+  "author": "Laszlo Andrasi <mail@laszloandrasi.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/laco/js-centaur/issues"
+  },
+  "homepage": "https://github.com/laco/js-centaur#readme"
+}
